@@ -17,4 +17,3 @@ RUN echo "alias c='clear'" >> $HOME/.bashrc
 
 
 CMD [ "bash" ]
-
